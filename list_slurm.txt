@@ -1,0 +1,2 @@
+           1839243        RT bash studtscm12  R      10:30      1 node20-39
+           1839248        RT lammps_gureva studtscm12  R       0:00      1 node20-98
